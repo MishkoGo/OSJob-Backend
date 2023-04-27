@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aYPJ3hBcDT6kfyKqXnRtMyV6MOCM5BfT0MOA8wSgJAiWx0EHSg7ZGajnZwG9WAstRKnEKisdsGg8Eb+o3uuQJg==",
+  "dgSpecHash": "10Q23q/b7UzspXpF2jji63tCJieGZZFgYfxKfBbkWj8y08Mqa/X82i1VzbmL18R+GlK07+qIt3rGAQz5mzNqZA==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\OSJob-main\\OSJob-main\\ASPNetCoreReact(Project)\\aspnetserver\\aspnetserver.csproj",
+  "projectFilePath": "D:\\GitHub\\OsJobAsp.Net\\Backend\\aspnetserver.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Server\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Server\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.3\\microsoft.data.sqlite.core.7.0.3.nupkg.sha512",
